@@ -50,6 +50,9 @@ filters:
   locations:
     - bangalore
     - bengaluru
+    - delhi
+    - mumbai
+    - hyderabad
     - india
 
   # If true, anything reading as remote passes the location gate.
