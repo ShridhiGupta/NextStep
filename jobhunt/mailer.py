@@ -25,3 +25,4 @@ def send(subject: str, html_body: str) -> None:
         s.login(user, password)
         s.send_message(msg)
     print(f"  mailed -> {to_addr}")
+
