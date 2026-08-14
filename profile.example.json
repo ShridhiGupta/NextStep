@@ -1,11 +1,11 @@
 {
-  "name": "Sample Candidate",
-  "current_title": "Software Engineer II",
-  "years_experience": 3,
+  "name": "Shridhi Gupta",
+  "current_title": "Software Automation Engineer",
+  "years_experience": 0,
   "core_skills": [
-    "Go",
+    "Node.js",
+    "JavaScript",
     "Java",
-    "Python",
     "distributed systems",
     "Kubernetes",
     "Kafka",
@@ -18,26 +18,46 @@
     "TCP/IP",
     "HTTP",
     "DNS",
-    "system design"
+    "system design",
+    "RESTful APIs",
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Vector Search (HNSW)",
+    "RAG / Ollama",
+    "n8n",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "SQL",
+    "Puppeteer",
+    "Git"
   ],
   "domains": [
+    "AI/ML Systems",
+    "Software Automation",
     "backend services",
     "distributed systems",
     "CDN and edge networking",
-    "platform infrastructure"
+    "platform infrastructure",
+    "Vector Search & Retrieval",
+    "Full-Stack Web Development",
+    "Distributed Systems"
   ],
   "notable_projects": [
+    "NeuralCore: Built a Node.js vector search engine & RAG pipeline implementing HNSW for near O(log N) search complexity and semantic document Q&A.",
+    "Intervio: Developed a full-stack AI interview prep platform using React, Node.js, and Gemini to generate personalized report cards in 10-15 seconds and auto-generate ATS resumes."
+  ],
+  "education": "B.Tech in Computer Science & Engineering (AI/ML), Teerthanker Mahaveer University (2023–2027), CGPA: 9.27/10",
+  "target_titles": [
+    "Software Development Engineer (SDE)",
     "Rebuilt a request-routing layer in Go, cutting p99 latency from 340ms to 95ms",
     "Owned the migration of 40 services onto Kubernetes with zero customer-facing downtime",
-    "Built a Kafka-based event pipeline handling 1.2B events/day"
-  ],
-  "education": "B.E. Computer Science, 2022",
-  "target_titles": [
-    "Software Engineer",
+    "Built a Kafka-based event pipeline handling 1.2B events/day",
     "Backend Engineer",
-    "Software Development Engineer",
-    "Site Reliability Engineer",
-    "Platform Engineer"
+    "AI/ML Engineer",
+    "Software Automation Engineer",
+    "Full Stack Engineer"
   ],
-  "seniority": "mid"
+  "seniority": "new-grad"
 }
