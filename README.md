@@ -25,7 +25,7 @@ python -m nextstep run --mock --scorer keyword       # smoke test, no API key ne
 3. Edit `companies.yaml` (companies to watch) and `config.yaml`
    (job titles, locations, score threshold).
 
-Fu
+
 ## Daily use
 
 ```bash
