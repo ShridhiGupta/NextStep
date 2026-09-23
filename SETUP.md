@@ -408,8 +408,6 @@ once; that's the only downside, and it's harmless.
 
 ## Ground rules
 
-- **Never commit `.env`.** If a key ever lands in a screenshot, a video frame,
-  or a chat message, regenerate it immediately — it takes 10 seconds.
 - **Read before you send.** The cover notes are drafts written by a model that
   has only seen your `profile.json`. Check every claim is actually true about
   you before it goes to a human.
