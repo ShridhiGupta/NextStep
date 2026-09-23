@@ -1,5 +1,4 @@
 # Setup guide
-
 Start here if you've never run a Python project before. Every step assumes you
 have nothing installed.
 
