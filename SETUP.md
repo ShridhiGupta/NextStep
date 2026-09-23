@@ -110,12 +110,7 @@ python -m jobhunt run --mock --scorer keyword
   wrote out/digest.html
 
 funnel: 12 scanned -> 5 passed filters -> 5 new -> 3 in digest
-```
 
-Open `out/digest.html` in your browser. That's the shape of the email you'll get.
-
-**If this works, your setup is fine** and every problem from here is
-configuration, not installation.
 
 > The keyword scorer is for testing only. It has no idea what the words mean —
 > it can't tell a Staff role from a fresher one. Never judge real jobs by it.
