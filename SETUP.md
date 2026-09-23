@@ -1,23 +1,4 @@
-# Setup guide
-Start here if you've never run a Python project before. Every step assumes you
-have nothing installed.
-
-**Time:** about 20 minutes. **Cost:** ₹0 — the free tier of any provider covers
-this comfortably, because a full day of running is only ~10 API calls.
-
-**What you end up with:** an email every weekday morning with the 5 jobs worth
-your time, each with tailored resume bullets, honest gaps, and a draft cover
-note. You read it, edit it, and apply yourself. The tool never submits anything.
-
----
-
-## Step 1 — Install Python
-
-You need **Python 3.10 or newer**.
-
-**Windows** — download from [python.org/downloads](https://www.python.org/downloads/).
-On the first screen of the installer, **tick "Add python.exe to PATH"** before
-clicking Install. Missing that checkbox is the single most common reason
+son
 nothing works afterwards.
 
 **macOS** — `brew install python` if you have Homebrew, otherwise python.org.
