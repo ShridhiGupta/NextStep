@@ -2,8 +2,6 @@
 
 Start here if you've never run a Python project before. Every step assumes you have nothing installed.
 
-**Time:** about 20 minutes.  
-**Cost:** ₹0 — the free tier of any provider covers this comfortably.
 
 **What you end up with:** an email every weekday morning with the 5 jobs worth your time, each with tailored resume bullets, honest gaps, and a draft cover note. You read it, edit it, and apply yourself. The tool never submits anything.
 
