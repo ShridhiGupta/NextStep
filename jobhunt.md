@@ -1,4 +1,4 @@
-# Prompt for Claude Code 
+# Prompt 
 
 Paste everything below the line into Claude Code. If you unzipped
 `jobhunt-starter.zip` into the folder first, it will pick up the existing
